@@ -1,0 +1,31 @@
+header h1 {
+    background-color: #9f9fce;
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+    padding: .6rem 0;
+    text-transform: capitalize;
+    max-width: 88%;
+    margin: 0 auto;
+}
+
+.fondo-verde {
+    background-color: green;
+
+} 
+.btn-verde {
+    background-color: rgb(46, 227, 46);
+    border: none;
+    margin-top: 1rem;
+    color: white;
+    text-transform: uppercase;
+    padding-top: 1 rem;
+    padding-bottom: 1 rem;
+    border-radius: 1 rem;
+}
+.btn-verde:hover{
+    cursor: pointer;
+    background-color: rgb(25, 77, 25);
+    transition: .3s ease-in;
+    font-weight: bold;
+}
